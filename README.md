@@ -2,6 +2,11 @@
 
 SkillSwap is a full-stack, peer-to-peer skill exchange platform designed as a university exam project. It enables users to teach the skills they already know in exchange for learning the skills they want, creating a cashless knowledge-sharing network.
 
+### 🌐 Live Deployment Links
+- **Live Web App (Frontend):** [https://skillswap-frontend-seven-pi.vercel.app](https://skillswap-frontend-seven-pi.vercel.app)
+- **Live API Server (Backend):** [https://skillswap-backend-tau.vercel.app](https://skillswap-backend-tau.vercel.app)
+- **GitHub Repository:** [https://github.com/ArafatRkk/skillswap](https://github.com/ArafatRkk/skillswap)
+
 ## 🚀 Project Overview
 
 The core objective of SkillSwap is to match individuals based on mutual learning interests and teaching capabilities. If User A teaches React and wants to learn Photoshop, and User B teaches Photoshop and wants to learn React, SkillSwap recognizes this mutual overlap and suggests a **Strong Match**, allowing them to connect.
